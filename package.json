@@ -1,0 +1,37 @@
+{
+  "name": "generaptr-cli",
+  "version": "0.1.0",
+  "description": "Api generator",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generaptr/generaptr-cli.git"
+  },
+  "author": "Darius Cupsa <cupsadarius@gmail.com>",
+  "homepage": "https://generaptr.github.io",
+  "bin": {
+    "generaptr": "./bin/generaptr"
+  },
+  "bugs": {
+    "url": "https://github.com/generaptr/generaptr/issues"
+  },
+  "engines": {
+    "node": ">= 7.5.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0"
+  }
+}
