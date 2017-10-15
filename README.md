@@ -1,7 +1,7 @@
 ![](http://i.imgur.com/yCRAubA.png)
 ========
 
-[![npm](https://badge.fury.io/js/generaptr-cli.svg)](http://badge.fury.io/js/generaptr-cli) [![Build Status](https://travis-ci.org/generaptr/generaptr-cli.svg)](http://travis-ci.org/generaptr/generaptr-cli) [![Join the chat at https://gitter.im/generaptr/generaptr](https://badges.gitter.im/generaptr/generaptr.svg)](https://gitter.im/generaptr/generaptr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![dependencies](https://david-dm.org/cupsadarius/generaptr-cli.svg?theme=shields.io)](https://david-dm.org/cupsadarius/generaptr-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/generaptr/generaptr-cli.svg)](https://greenkeeper.io/)
+[![npm](https://badge.fury.io/js/generaptr-cli.svg)](http://badge.fury.io/js/generaptr-cli) [![Build Status](https://travis-ci.org/generaptr/generaptr-cli.svg)](http://travis-ci.org/generaptr/generaptr-cli) [![Join the chat at https://gitter.im/generaptr/generaptr](https://badges.gitter.im/generaptr/generaptr.svg)](https://gitter.im/generaptr/generaptr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![dependencies](https://david-dm.org/generaptr/generaptr-cli.svg?theme=shields.io)](https://david-dm.org/generaptr/generaptr-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/generaptr/generaptr-cli.svg)](https://greenkeeper.io/)
 
 generaptr-cli is a node cli package that helps when starting up a project by generating boilerplate code for Express api.
 
