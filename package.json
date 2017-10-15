@@ -1,10 +1,10 @@
 {
   "name": "generaptr-cli",
   "version": "0.1.0",
-  "description": "Api generator",
+  "description": "Generaptr is a node cli package that helps when starting up a project by generating boilerplate code.",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint -c .eslintrc.json lib",
     "commit": "git-cz"
   },
   "keywords": [
@@ -20,7 +20,7 @@
     "generaptr": "./bin/generaptr"
   },
   "bugs": {
-    "url": "https://github.com/generaptr/generaptr/issues"
+    "url": "https://github.com/generaptr/generaptr-cli/issues"
   },
   "engines": {
     "node": ">= 7.5.0"
@@ -32,6 +32,14 @@
   },
   "devDependencies": {
     "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.0.0"
+    "cz-conventional-changelog": "^2.0.0",
+    "eslint": "^4.9.0"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "clear": "0.0.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.3.0",
+    "generaptr": "^1.2.0"
   }
 }
