@@ -39,7 +39,7 @@
     "chalk": "^2.1.0",
     "clear": "0.0.1",
     "figlet": "^1.2.0",
-    "inquirer": "^4.0.0",
+    "inquirer": "^5.0.0",
     "generaptr": "^1.2.0"
   }
 }
