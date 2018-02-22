@@ -2,6 +2,7 @@
 ========
 
 [![npm](https://badge.fury.io/js/generaptr-cli.svg)](http://badge.fury.io/js/generaptr-cli) [![Build Status](https://travis-ci.org/generaptr/generaptr-cli.svg)](http://travis-ci.org/generaptr/generaptr-cli) [![Join the chat at https://gitter.im/generaptr/generaptr](https://badges.gitter.im/generaptr/generaptr.svg)](https://gitter.im/generaptr/generaptr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![dependencies](https://david-dm.org/generaptr/generaptr-cli.svg?theme=shields.io)](https://david-dm.org/generaptr/generaptr-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/generaptr/generaptr-cli.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeneraptr%2Fgeneraptr-cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeneraptr%2Fgeneraptr-cli?ref=badge_shield)
 
 generaptr-cli is a node cli package that helps when starting up a project by generating boilerplate code for Express api.
 
@@ -126,6 +127,9 @@ Add documentation for every API change. Feel free to send typo fixes and better 
 
 Copyright (c) 2017 Darius Cupsa (twitter: [@cupsadarius](https://twitter.com/cupsadarius))
 Licensed under the MIT license.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeneraptr%2Fgeneraptr-cli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeneraptr%2Fgeneraptr-cli?ref=badge_large)
+
 ## [References](#references)
 <a name="references"></a>
 * [RAML](http://raml.org)
