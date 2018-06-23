@@ -33,7 +33,7 @@
   "devDependencies": {
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
-    "eslint": "^4.9.0"
+    "eslint": "^5.0.0"
   },
   "dependencies": {
     "chalk": "^2.1.0",
