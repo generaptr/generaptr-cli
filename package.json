@@ -4,7 +4,7 @@
   "description": "Generaptr is a node cli package that helps when starting up a project by generating boilerplate code.",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint -c .eslintrc.json lib",
+    "lint": "eslint -c .eslintrc.js lib",
     "commit": "git-cz"
   },
   "keywords": [
